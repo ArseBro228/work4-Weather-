@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+th{
+    font-size: 30px;
+}
+img {
+    width: 175px;
+    height: 175px;
+}
+
+.row_1 td:hover {
+    border: 2px solid black;
+    width: 102px;
+    height: 102px;
+    transition: all 0.1s;
+    background: red;
+    background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet);
+    background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet);
+    background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet);
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+}
+table{
+    background-color: darkmagenta;
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    opacity: 90%;
+    background: rgb(129,63,251);
+background: radial-gradient(circle, rgba(129,63,251,1) 0%, rgba(220,252,67,0.969625350140056) 29%, rgba(232,70,252,1) 58%, rgba(252,70,107,1) 93%);
+}
+.FontXL{
+    font-size: 20px;
+}
+body{
+    background-image: url(https://wallpapercave.com/wp/wp2035189.jpg);
+}
+h1{
+    color: bisque;
+}
+h3{
+    color: bisque;
+}
+a{
+    color: bisque;
+}
